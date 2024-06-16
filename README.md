@@ -1,4 +1,4 @@
-# Simple Energy Efficiency Multiple Regression Model
+# LCA Model - Natural Gas Transportation - GREET
 
 ### [Kaggle Demonstration](https://www.kaggle.com/code/dvd1587/simple-energy-efficiency-multiple-regression-model)
 
