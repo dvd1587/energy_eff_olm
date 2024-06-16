@@ -3,7 +3,7 @@
 ### [Kaggle Demonstration](https://www.kaggle.com/code/dvd1587/simple-energy-efficiency-multiple-regression-model)
 
 <h2>Description</h2>
-Energy efficiency has become an important feature in real estate and buildings not only from a cost point of view but also from a climate change perspective. Through an energy efficiency dataset, we shall create a simple regression model to predict energy consumption esp. heating and cooling loads of a building.
+Energy efficiency has become an important feature in real estate and buildings not only from a cost point of view but also from a climate change perspective. Through an energy efficiency dataset, we shall create a simple regression model to predict energy consumption esp. the heating and cooling loads of a building.
 <br />
 
 <h2>Languages and Utilities Used</h2>
