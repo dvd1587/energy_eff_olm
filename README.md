@@ -30,6 +30,9 @@ Splitting & Scaling the dataframe: <br/>
 <br />
 Modeling and fitting: <br/>
 <a href="https://imgur.com/0brX9sU"><img src="https://i.imgur.com/0brX9sU.jpg" alt="EE Multiple Regression Steps" /></a>
+<br />
+PCA Analysis: <br/>
+<a href="https://imgur.com/0brX9sU"><img src="https://i.imgur.com/0brX9sU.jpg" alt="EE Multiple Regression Steps" /></a>
 </p>
 
 <!--
