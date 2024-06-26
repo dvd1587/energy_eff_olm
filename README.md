@@ -14,26 +14,32 @@ Energy efficiency has become an important feature in real estate and buildings n
 
 <p align="center">
 Data Preparation & Cleaning: <br/>
-<a href="https://imgur.com/UCGwT4X"><img src="https://i.imgur.com/UCGwT4X.jpg" alt="EE Multiple Regression Steps" /></a>
+<a href="https://imgur.com/yOfIGJO"><img src="https://i.imgur.com/yOfIGJO.jpg" alt="EE Multiple Regression Steps" /></a> 
 <br />
 <br />
-<a href="https://imgur.com/Wlpe4dD"><img src="https://i.imgur.com/Wlpe4dD.jpg" alt="EE Multiple Regression Steps" /></a>
+<a href="https://imgur.com/gSeY1uR"><img src="https://i.imgur.com/gSeY1uR.jpg" alt="EE Multiple Regression Steps" /></a> 
 <br />
 <br />
-Splitting the dataframe for heating and cooling loads: <br/>
-<a href="https://imgur.com/yfjLZXh"><img src="https://i.imgur.com/yfjLZXh.jpg" alt="EE Multiple Regression Steps" /></a>
+<a href="https://imgur.com/U6Z7cMi"><img src="https://i.imgur.com/U6Z7cMi.jpg" alt="EE Multiple Regression Steps" /></a> 
 <br />
 <br />
-Splitting & Scaling the dataframe: <br/>
-<a href="https://imgur.com/esWr22Y"><img src="https://i.imgur.com/esWr22Y.jpg" alt="EE Multiple Regression Steps" /></a>
+<a href="https://imgur.com/wzqQL5O"><img src="https://i.imgur.com/wzqQL5O.jpg" alt="EE Multiple Regression Steps" /></a>
+<br />
+<br />  
+Splitting the data-frame for heating and cooling loads: <br/>
+<a href="https://imgur.com/wCsv77G"><img src="https://i.imgur.com/wCsv77G.jpg" alt="EE Multiple Regression Steps" /></a> 
+<br />
+<br />
+Splitting & Scaling the data-frame: <br/>
+<a href="https://imgur.com/IL5jnLL"><img src="https://i.imgur.com/IL5jnLL.jpg" alt="EE Multiple Regression Steps" /></a>
 <br />
 <br />
 Modeling and fitting: <br/>
-<a href="https://imgur.com/0brX9sU"><img src="https://i.imgur.com/0brX9sU.jpg" alt="EE Multiple Regression Steps" /></a>
+<a href="https://imgur.com/Jkpc9HS"><img src="https://i.imgur.com/Jkpc9HS.jpg" alt="EE Multiple Regression Steps" /></a>
 <br />
 <br />
 PCA Analysis: <br/>
-<a href="https://imgur.com/xQJOcDe"><img src="https://i.imgur.com/xQJOcDe.jpg" alt="PCA Analysis" /></a>
+<a href="https://imgur.com/znFrly8"><img src="https://i.imgur.com/znFrly8.jpg" alt="EE Multiple Regression Steps" /></a>
 </p>
 
 <!--
